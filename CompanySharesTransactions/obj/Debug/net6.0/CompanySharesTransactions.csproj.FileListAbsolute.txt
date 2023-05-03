@@ -1,0 +1,15 @@
+E:\bridgelab\CompanySharesTransactions\CompanySharesTransactions\bin\Debug\net6.0\CompanySharesTransactions.exe
+E:\bridgelab\CompanySharesTransactions\CompanySharesTransactions\bin\Debug\net6.0\CompanySharesTransactions.deps.json
+E:\bridgelab\CompanySharesTransactions\CompanySharesTransactions\bin\Debug\net6.0\CompanySharesTransactions.runtimeconfig.json
+E:\bridgelab\CompanySharesTransactions\CompanySharesTransactions\bin\Debug\net6.0\CompanySharesTransactions.dll
+E:\bridgelab\CompanySharesTransactions\CompanySharesTransactions\bin\Debug\net6.0\CompanySharesTransactions.pdb
+E:\bridgelab\CompanySharesTransactions\CompanySharesTransactions\obj\Debug\net6.0\CompanySharesTransactions.csproj.AssemblyReference.cache
+E:\bridgelab\CompanySharesTransactions\CompanySharesTransactions\obj\Debug\net6.0\CompanySharesTransactions.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgelab\CompanySharesTransactions\CompanySharesTransactions\obj\Debug\net6.0\CompanySharesTransactions.AssemblyInfoInputs.cache
+E:\bridgelab\CompanySharesTransactions\CompanySharesTransactions\obj\Debug\net6.0\CompanySharesTransactions.AssemblyInfo.cs
+E:\bridgelab\CompanySharesTransactions\CompanySharesTransactions\obj\Debug\net6.0\CompanySharesTransactions.csproj.CoreCompileInputs.cache
+E:\bridgelab\CompanySharesTransactions\CompanySharesTransactions\obj\Debug\net6.0\CompanySharesTransactions.dll
+E:\bridgelab\CompanySharesTransactions\CompanySharesTransactions\obj\Debug\net6.0\refint\CompanySharesTransactions.dll
+E:\bridgelab\CompanySharesTransactions\CompanySharesTransactions\obj\Debug\net6.0\CompanySharesTransactions.pdb
+E:\bridgelab\CompanySharesTransactions\CompanySharesTransactions\obj\Debug\net6.0\CompanySharesTransactions.genruntimeconfig.cache
+E:\bridgelab\CompanySharesTransactions\CompanySharesTransactions\obj\Debug\net6.0\ref\CompanySharesTransactions.dll
